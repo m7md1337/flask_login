@@ -1,4 +1,4 @@
-# flask_login email,password and via mobile check code 
+# flask_login email,password and mobile phone 
 * rest API using flask with flask-limit to prevent rate limit and jwt for the auth expire within 20 minute 
 * using mysql to store the data with prepared statement query to prevent sqli 
 * This repositary is for a learning purpose.
