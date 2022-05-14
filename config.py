@@ -1,0 +1,5 @@
+MYSQL_DATABASE_USER = 'restapi'
+MYSQL_DATABASE_PASSWORD = 'password'
+MYSQL_DATABASE_DB = 'ggdb'
+MYSQL_DATABASE_HOST = 'localhost'
+SECRET_KEY = 'Th1s1ss3cr3t'
